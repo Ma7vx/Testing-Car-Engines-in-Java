@@ -1,1 +1,3 @@
 # Testing-Car-Engines-in-Java
+
+The Java program is designed to model and test various aspects of car engines, such as their specifications and performance metrics. It allows for the creation of engine objects with different configurations, calculates key properties like displacement and horsepower, and ensures the values adhere to realistic constraints. The program also includes a testing framework to validate the accuracy and reliability of these calculations, demonstrating the practical application of object-oriented principles to represent and manage complex systems in the automotive domain.
